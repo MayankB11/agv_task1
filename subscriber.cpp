@@ -4,7 +4,7 @@
 #include <opencv2/opencv.hpp>
 using namespace std;
 using namespace cv;
-Mat img=imread("/home/mayank/catkin_ws/src/beginner_tutorials/src/ps1.jpg",1);
+Mat img=imread("/home/mayank/catkin_ws/src/agv_task1/src/ps1.jpg",1);
 
 void plot_Point(const geometry_msgs::Point& p)
 {
