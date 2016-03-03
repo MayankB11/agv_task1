@@ -12,7 +12,7 @@ struct point
 #include "geometry_msgs/Point.h"
 using namespace std;
 using namespace cv;
-Mat img=imread("/home/mayank/catkin_ws/src/beginner_tutorials/src/ps1.jpg",1);
+Mat img=imread("/home/mayank/catkin_ws/src/agv_task1/src/ps1.jpg",1);
 Mat visited(img.rows,img.cols,CV_8UC1);
 Mat visited1(img.rows,img.cols,CV_8UC1);
 long rx=0,ry=0,gx=0,gy=0,cr=0,cg=0,i,j;
