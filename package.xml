@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>beginner_tutorials</name>
+  <name>agv_task1</name>
   <version>1.0.0</version>
-  <description>The beginner_tutorials package</description>
+  <description>agv_task1</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->
