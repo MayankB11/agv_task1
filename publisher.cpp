@@ -171,7 +171,7 @@ cout<<"Red x : "<<rx<<" y : "<<ry<<"\nGreen x : "<<gx<<" y : "<<gy<<"\n";
        loop_rate.sleep();
        cout<<i<<" "<<j<<"\n";
        long double mini=v[i][j];
-        for(int k=-1;k><=1&&flag!=0;k++)
+        for(int k=-1;k<=1&&flag!=0;k++)
         {
             for(int l=-1;l<=1&&flag!=0;l++)
             {
